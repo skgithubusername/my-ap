@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(125, 129, 129);
+    display: flex;
+    justify-content: center;
+
+}
+
+div{
+    margin: 50px;
+}
